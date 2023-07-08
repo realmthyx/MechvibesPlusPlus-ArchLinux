@@ -7,3 +7,11 @@ Download the .zst file, then run the command:
   ```
   sudo pacman -U <path to the zst file.>
   ```
+Then run Mechvibes once, then restart it, after that, the program should work as intended.
+
+Tested on:
+
+```
+1. Arch Linux
+2. ArcoLinux
+```
